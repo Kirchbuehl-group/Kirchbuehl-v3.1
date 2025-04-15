@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "model": "iPad 11″ Wi-Fi (A16)",
+      "price": "379.99 €"
+    },
+    {
+      "model": "iPad 11″ Wi-Fi + Cellular (A16)",
+      "price": "539.99 €"
+    },
+    {
+      "model": "iPad 10,2″ Wi-Fi (9. Gen)",
+      "price": "339.99 €"
+    },
+    {
+      "model": "iPad Air 10,9″ Wi-Fi (M1)",
+      "price": "589.99 €"
+    },
+    {
+      "model": "iPad mini 8,3″ Wi-Fi (6. Gen)",
+      "price": "519.99 €"
+    },
+    {
+      "model": "iPad Pro 11″ Wi-Fi (M2)",
+      "price": "899.99 €"
+    },
+    {
+      "model": "iPad Pro 12,9″ Wi-Fi (M2)",
+      "price": "1169.99 €"
+    }
+  ]
+}
